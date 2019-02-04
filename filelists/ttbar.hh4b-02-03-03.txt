@@ -1,0 +1,3 @@
+group.phys-exotics.mc15_13TeV.410000.PowhegPythiaEvtGen_P2012_ttbar_hdamp172p5_nonallhad.hh4b-02-03-03_MiniNTuple.root
+group.phys-exotics.mc15_13TeV.410007.PowhegPythiaEvtGen_P2012_ttbar_hdamp172p5_allhad.hh4b-02-03-03_MiniNTuple.root
+

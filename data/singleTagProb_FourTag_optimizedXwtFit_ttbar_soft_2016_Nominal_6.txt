@@ -1,0 +1,2 @@
+singleTagProb_qcd_PassHCdEta       0.151436501446
+singleTagProb_qcd_PassHCdEta_err   0.0144767679706

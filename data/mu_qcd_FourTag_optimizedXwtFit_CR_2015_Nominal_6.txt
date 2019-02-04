@@ -1,0 +1,12 @@
+mu_qcd_no_nJetWeight_PassHCdEta       0.00926371532808
+mu_allhad_no_nJetWeight_PassHCdEta     0.0047023481393
+mu_qcd_prefit_PassHCdEta       0.138568451804
+mu_allhad_prefit_PassHCdEta     0.944666091951
+mu_qcd_PassHCdEta       0.14048392096
+mu_qcd_PassHCdEta_err   0.00434893223588
+mu_allhad_PassHCdEta     0.739589007698
+mu_allhad_PassHCdEta_err 0.575404494398
+mu_nonallhad2b_PassHCdEta     0.911709484615
+mu_nonallhad2b_PassHCdEta_err 0.0365823033248
+mu_nonallhad4b_PassHCdEta     0.917433513064
+mu_nonallhad4b_PassHCdEta_err 0.469610767121

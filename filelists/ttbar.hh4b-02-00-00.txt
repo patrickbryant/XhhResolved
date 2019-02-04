@@ -1,0 +1,13 @@
+group.phys-exotics.mc15_13TeV.410000.PowhegPythiaEvtGen_P2012_ttbar_hdamp172p5_nonallhad.hh4b-02-00-00_MiniNTuple.root
+group.phys-exotics.mc15_13TeV.410007.PowhegPythiaEvtGen_P2012_ttbar_hdamp172p5_allhad.hh4b-02-00-00_MiniNTuple.root
+
+#group.phys-exotics.mc15_13TeV.301528.PowhegPythiaEvtGen_P2012_ttbar_hdamp172p5_nonallhad_mtt_1.hh4b-02-00-00_MiniNTuple.root
+#group.phys-exotics.mc15_13TeV.301529.PowhegPythiaEvtGen_P2012_ttbar_hdamp172p5_nonallhad_mtt_2.hh4b-02-00-00_MiniNTuple.root
+#group.phys-exotics.mc15_13TeV.301530.PowhegPythiaEvtGen_P2012_ttbar_hdamp172p5_nonallhad_mtt_3.hh4b-02-00-00_MiniNTuple.root
+#group.phys-exotics.mc15_13TeV.301531.PowhegPythiaEvtGen_P2012_ttbar_hdamp172p5_nonallhad_mtt_4.hh4b-02-00-00_MiniNTuple.root
+#group.phys-exotics.mc15_13TeV.301532.PowhegPythiaEvtGen_P2012_ttbar_hdamp172p5_nonallhad_mtt_5.hh4b-02-00-00_MiniNTuple.root
+#group.phys-exotics.mc15_13TeV.303722.PowhegPythiaEvtGen_P2012_ttbar_hdamp172p5_allhad_mtt_1.hh4b-02-00-00_MiniNTuple.root
+#group.phys-exotics.mc15_13TeV.303723.PowhegPythiaEvtGen_P2012_ttbar_hdamp172p5_allhad_mtt_2.hh4b-02-00-00_MiniNTuple.root
+#group.phys-exotics.mc15_13TeV.303724.PowhegPythiaEvtGen_P2012_ttbar_hdamp172p5_allhad_mtt_3.hh4b-02-00-00_MiniNTuple.root
+#group.phys-exotics.mc15_13TeV.303725.PowhegPythiaEvtGen_P2012_ttbar_hdamp172p5_allhad_mtt_4.hh4b-02-00-00_MiniNTuple.root
+#group.phys-exotics.mc15_13TeV.303726.PowhegPythiaEvtGen_P2012_ttbar_hdamp172p5_allhad_mtt_5.hh4b-02-00-00_MiniNTuple.root

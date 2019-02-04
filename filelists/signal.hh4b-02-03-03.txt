@@ -1,0 +1,90 @@
+#
+# SM hh
+#
+#group.phys-exotics.mc15_13TeV.342619.aMcAtNloHerwigppEvtGen_UEEE5_CTEQ6L1_CT10ME_hh_4b.hh4b-02-03-03_MiniNTuple.root
+
+#
+# Narrow width Scalars
+#
+group.phys-exotics.mc15_13TeV.343394.MadGraphHerwigppEvtGen_UEEE5_CTEQ6L1_CT10ME_Xhh_m260_4b.hh4b-02-03-03_MiniNTuple.root 
+# group.phys-exotics.mc15_13TeV.343395.MadGraphHerwigppEvtGen_UEEE5_CTEQ6L1_CT10ME_Xhh_m300_4b.hh4b-02-03-03_MiniNTuple.root 
+# group.phys-exotics.mc15_13TeV.343396.MadGraphHerwigppEvtGen_UEEE5_CTEQ6L1_CT10ME_Xhh_m400_4b.hh4b-02-03-03_MiniNTuple.root 
+# group.phys-exotics.mc15_13TeV.343397.MadGraphHerwigppEvtGen_UEEE5_CTEQ6L1_CT10ME_Xhh_m500_4b.hh4b-02-03-03_MiniNTuple.root 
+# group.phys-exotics.mc15_13TeV.343398.MadGraphHerwigppEvtGen_UEEE5_CTEQ6L1_CT10ME_Xhh_m600_4b.hh4b-02-03-03_MiniNTuple.root 
+# group.phys-exotics.mc15_13TeV.343399.MadGraphHerwigppEvtGen_UEEE5_CTEQ6L1_CT10ME_Xhh_m700_4b.hh4b-02-03-03_MiniNTuple.root 
+# group.phys-exotics.mc15_13TeV.343400.MadGraphHerwigppEvtGen_UEEE5_CTEQ6L1_CT10ME_Xhh_m800_4b.hh4b-02-03-03_MiniNTuple.root 
+# group.phys-exotics.mc15_13TeV.343401.MadGraphHerwigppEvtGen_UEEE5_CTEQ6L1_CT10ME_Xhh_m900_4b.hh4b-02-03-03_MiniNTuple.root 
+# group.phys-exotics.mc15_13TeV.343402.MadGraphHerwigppEvtGen_UEEE5_CTEQ6L1_CT10ME_Xhh_m1000_4b.hh4b-02-03-03_MiniNTuple.root
+# group.phys-exotics.mc15_13TeV.343403.MadGraphHerwigppEvtGen_UEEE5_CTEQ6L1_CT10ME_Xhh_m1100_4b.hh4b-02-03-03_MiniNTuple.root
+# group.phys-exotics.mc15_13TeV.343404.MadGraphHerwigppEvtGen_UEEE5_CTEQ6L1_CT10ME_Xhh_m1200_4b.hh4b-02-03-03_MiniNTuple.root
+# group.phys-exotics.mc15_13TeV.343405.MadGraphHerwigppEvtGen_UEEE5_CTEQ6L1_CT10ME_Xhh_m1300_4b.hh4b-02-03-03_MiniNTuple.root
+# group.phys-exotics.mc15_13TeV.343406.MadGraphHerwigppEvtGen_UEEE5_CTEQ6L1_CT10ME_Xhh_m1400_4b.hh4b-02-03-03_MiniNTuple.root
+# group.phys-exotics.mc15_13TeV.343407.MadGraphHerwigppEvtGen_UEEE5_CTEQ6L1_CT10ME_Xhh_m1500_4b.hh4b-02-03-03_MiniNTuple.root
+# group.phys-exotics.mc15_13TeV.343408.MadGraphHerwigppEvtGen_UEEE5_CTEQ6L1_CT10ME_Xhh_m1600_4b.hh4b-02-03-03_MiniNTuple.root
+# group.phys-exotics.mc15_13TeV.343409.MadGraphHerwigppEvtGen_UEEE5_CTEQ6L1_CT10ME_Xhh_m1800_4b.hh4b-02-03-03_MiniNTuple.root
+# group.phys-exotics.mc15_13TeV.343410.MadGraphHerwigppEvtGen_UEEE5_CTEQ6L1_CT10ME_Xhh_m2000_4b.hh4b-02-03-03_MiniNTuple.root
+# group.phys-exotics.mc15_13TeV.343411.MadGraphHerwigppEvtGen_UEEE5_CTEQ6L1_CT10ME_Xhh_m2250_4b.hh4b-02-03-03_MiniNTuple.root
+# group.phys-exotics.mc15_13TeV.343412.MadGraphHerwigppEvtGen_UEEE5_CTEQ6L1_CT10ME_Xhh_m2500_4b.hh4b-02-03-03_MiniNTuple.root
+# group.phys-exotics.mc15_13TeV.343413.MadGraphHerwigppEvtGen_UEEE5_CTEQ6L1_CT10ME_Xhh_m2750_4b.hh4b-02-03-03_MiniNTuple.root
+# group.phys-exotics.mc15_13TeV.343414.MadGraphHerwigppEvtGen_UEEE5_CTEQ6L1_CT10ME_Xhh_m3000_4b.hh4b-02-03-03_MiniNTuple.root
+
+#
+# RSG
+#
+# group.phys-exotics.mc15_13TeV.301486.MadGraphPythia8EvtGen_A14NNPDF23LO_RS_G_hh_bbbb_c05_M500.hh4b-02-03-03_MiniNTuple.root
+# group.phys-exotics.mc15_13TeV.301488.MadGraphPythia8EvtGen_A14NNPDF23LO_RS_G_hh_bbbb_c10_M300.hh4b-02-03-03_MiniNTuple.root
+# group.phys-exotics.mc15_13TeV.301489.MadGraphPythia8EvtGen_A14NNPDF23LO_RS_G_hh_bbbb_c10_M400.hh4b-02-03-03_MiniNTuple.root
+# group.phys-exotics.mc15_13TeV.301490.MadGraphPythia8EvtGen_A14NNPDF23LO_RS_G_hh_bbbb_c10_M500.hh4b-02-03-03_MiniNTuple.root
+# group.phys-exotics.mc15_13TeV.301491.MadGraphPythia8EvtGen_A14NNPDF23LO_RS_G_hh_bbbb_c10_M600.hh4b-02-03-03_MiniNTuple.root
+# group.phys-exotics.mc15_13TeV.301492.MadGraphPythia8EvtGen_A14NNPDF23LO_RS_G_hh_bbbb_c10_M700.hh4b-02-03-03_MiniNTuple.root
+# group.phys-exotics.mc15_13TeV.301493.MadGraphPythia8EvtGen_A14NNPDF23LO_RS_G_hh_bbbb_c10_M800.hh4b-02-03-03_MiniNTuple.root
+# group.phys-exotics.mc15_13TeV.301494.MadGraphPythia8EvtGen_A14NNPDF23LO_RS_G_hh_bbbb_c10_M900.hh4b-02-03-03_MiniNTuple.root
+# group.phys-exotics.mc15_13TeV.301496.MadGraphPythia8EvtGen_A14NNPDF23LO_RS_G_hh_bbbb_c10_M1100.hh4b-02-03-03_MiniNTuple.root
+# group.phys-exotics.mc15_13TeV.301497.MadGraphPythia8EvtGen_A14NNPDF23LO_RS_G_hh_bbbb_c10_M1200.hh4b-02-03-03_MiniNTuple.root
+# group.phys-exotics.mc15_13TeV.301498.MadGraphPythia8EvtGen_A14NNPDF23LO_RS_G_hh_bbbb_c10_M1300.hh4b-02-03-03_MiniNTuple.root
+# group.phys-exotics.mc15_13TeV.301499.MadGraphPythia8EvtGen_A14NNPDF23LO_RS_G_hh_bbbb_c10_M1400.hh4b-02-03-03_MiniNTuple.root
+# group.phys-exotics.mc15_13TeV.301500.MadGraphPythia8EvtGen_A14NNPDF23LO_RS_G_hh_bbbb_c10_M1500.hh4b-02-03-03_MiniNTuple.root
+# group.phys-exotics.mc15_13TeV.301501.MadGraphPythia8EvtGen_A14NNPDF23LO_RS_G_hh_bbbb_c10_M1600.hh4b-02-03-03_MiniNTuple.root
+# group.phys-exotics.mc15_13TeV.301502.MadGraphPythia8EvtGen_A14NNPDF23LO_RS_G_hh_bbbb_c10_M1800.hh4b-02-03-03_MiniNTuple.root
+# group.phys-exotics.mc15_13TeV.301503.MadGraphPythia8EvtGen_A14NNPDF23LO_RS_G_hh_bbbb_c10_M2000.hh4b-02-03-03_MiniNTuple.root
+# group.phys-exotics.mc15_13TeV.301504.MadGraphPythia8EvtGen_A14NNPDF23LO_RS_G_hh_bbbb_c10_M2250.hh4b-02-03-03_MiniNTuple.root
+# group.phys-exotics.mc15_13TeV.301505.MadGraphPythia8EvtGen_A14NNPDF23LO_RS_G_hh_bbbb_c10_M2500.hh4b-02-03-03_MiniNTuple.root
+# group.phys-exotics.mc15_13TeV.301506.MadGraphPythia8EvtGen_A14NNPDF23LO_RS_G_hh_bbbb_c10_M2750.hh4b-02-03-03_MiniNTuple.root
+# group.phys-exotics.mc15_13TeV.305776.MadGraphPythia8EvtGen_A14NNPDF23LO_RS_G_hh_bbbb_c10_M3500.hh4b-02-03-03_MiniNTuple.root
+# group.phys-exotics.mc15_13TeV.305778.MadGraphPythia8EvtGen_A14NNPDF23LO_RS_G_hh_bbbb_c10_M4500.hh4b-02-03-03_MiniNTuple.root
+# group.phys-exotics.mc15_13TeV.305779.MadGraphPythia8EvtGen_A14NNPDF23LO_RS_G_hh_bbbb_c10_M5000.hh4b-02-03-03_MiniNTuple.root
+
+#
+# BBS
+#
+# group.phys-exotics.mc15_13TeV.302486.ProtosLHEFPythia8EvtGen_A14NNPDF23LO_BBS_M500.hh4b-02-03-03_MiniNTuple.root           
+# group.phys-exotics.mc15_13TeV.302487.ProtosLHEFPythia8EvtGen_A14NNPDF23LO_BBS_M600.hh4b-02-03-03_MiniNTuple.root           
+# group.phys-exotics.mc15_13TeV.302489.ProtosLHEFPythia8EvtGen_A14NNPDF23LO_BBS_M750.hh4b-02-03-03_MiniNTuple.root           
+# group.phys-exotics.mc15_13TeV.302490.ProtosLHEFPythia8EvtGen_A14NNPDF23LO_BBS_M800.hh4b-02-03-03_MiniNTuple.root           
+# group.phys-exotics.mc15_13TeV.302491.ProtosLHEFPythia8EvtGen_A14NNPDF23LO_BBS_M850.hh4b-02-03-03_MiniNTuple.root           
+# group.phys-exotics.mc15_13TeV.302492.ProtosLHEFPythia8EvtGen_A14NNPDF23LO_BBS_M900.hh4b-02-03-03_MiniNTuple.root           
+# group.phys-exotics.mc15_13TeV.302493.ProtosLHEFPythia8EvtGen_A14NNPDF23LO_BBS_M950.hh4b-02-03-03_MiniNTuple.root           
+# group.phys-exotics.mc15_13TeV.302494.ProtosLHEFPythia8EvtGen_A14NNPDF23LO_BBS_M1000.hh4b-02-03-03_MiniNTuple.root          
+# group.phys-exotics.mc15_13TeV.302495.ProtosLHEFPythia8EvtGen_A14NNPDF23LO_BBS_M1050.hh4b-02-03-03_MiniNTuple.root          
+# group.phys-exotics.mc15_13TeV.302496.ProtosLHEFPythia8EvtGen_A14NNPDF23LO_BBS_M1100.hh4b-02-03-03_MiniNTuple.root          
+# group.phys-exotics.mc15_13TeV.302497.ProtosLHEFPythia8EvtGen_A14NNPDF23LO_BBS_M1150.hh4b-02-03-03_MiniNTuple.root          
+# group.phys-exotics.mc15_13TeV.302498.ProtosLHEFPythia8EvtGen_A14NNPDF23LO_BBS_M1200.hh4b-02-03-03_MiniNTuple.root          
+# group.phys-exotics.mc15_13TeV.302499.ProtosLHEFPythia8EvtGen_A14NNPDF23LO_BBS_M1300.hh4b-02-03-03_MiniNTuple.root          
+# group.phys-exotics.mc15_13TeV.302500.ProtosLHEFPythia8EvtGen_A14NNPDF23LO_BBS_M1400.hh4b-02-03-03_MiniNTuple.root          
+
+#
+# SM h
+#
+# group.phys-exotics.mc15_13TeV.341564.PowhegPythia8EvtGen_CT10_AZNLOCTEQ6L1_ggH125_bb.hh4b-02-03-03_MiniNTuple.root         
+
+#
+# Higgsino / SUSY
+#
+# group.phys-exotics.mc15_13TeV.392791.MadGraphPythia8EvtGen_A14N23LO_130_N1N1_directHG.hh4b-02-03-03_MiniNTuple.root        
+# group.phys-exotics.mc15_13TeV.392795.MadGraphPythia8EvtGen_A14N23LO_150_N1N1_directHG.hh4b-02-03-03_MiniNTuple.root        
+# group.phys-exotics.mc15_13TeV.392800.MadGraphPythia8EvtGen_A14N23LO_175_N1N1_directHG.hh4b-02-03-03_MiniNTuple.root        
+# group.phys-exotics.mc15_13TeV.392805.MadGraphPythia8EvtGen_A14N23LO_200_N1N1_directHG.hh4b-02-03-03_MiniNTuple.root        
+# group.phys-exotics.mc15_13TeV.392810.MadGraphPythia8EvtGen_A14N23LO_225_N1N1_directHG.hh4b-02-03-03_MiniNTuple.root        
+# group.phys-exotics.mc15_13TeV.392815.MadGraphPythia8EvtGen_A14N23LO_250_N1N1_directHG.hh4b-02-03-03_MiniNTuple.root        
+# group.phys-exotics.mc15_13TeV.392820.MadGraphPythia8EvtGen_A14N23LO_275_N1N1_directHG.hh4b-02-03-03_MiniNTuple.root        
+# group.phys-exotics.mc15_13TeV.392824.MadGraphPythia8EvtGen_A14N23LO_300_N1N1_directHG.hh4b-02-03-03_MiniNTuple.root        

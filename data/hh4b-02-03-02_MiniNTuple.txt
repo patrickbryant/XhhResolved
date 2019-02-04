@@ -1,0 +1,14 @@
+group.phys-exotics.mc15_13TeV.343394.MadGraphHerwigppEvtGen_UEEE5_CTEQ6L1_CT10ME_Xhh_m260_4b.hh4b-02-03-02_MiniNTuple.root
+group.phys-exotics.mc15_13TeV.343395.MadGraphHerwigppEvtGen_UEEE5_CTEQ6L1_CT10ME_Xhh_m300_4b.hh4b-02-03-02_MiniNTuple.root
+group.phys-exotics.mc15_13TeV.343396.MadGraphHerwigppEvtGen_UEEE5_CTEQ6L1_CT10ME_Xhh_m400_4b.hh4b-02-03-02_MiniNTuple.root
+group.phys-exotics.mc15_13TeV.343397.MadGraphHerwigppEvtGen_UEEE5_CTEQ6L1_CT10ME_Xhh_m500_4b.hh4b-02-03-02_MiniNTuple.root
+group.phys-exotics.mc15_13TeV.343398.MadGraphHerwigppEvtGen_UEEE5_CTEQ6L1_CT10ME_Xhh_m600_4b.hh4b-02-03-02_MiniNTuple.root
+group.phys-exotics.mc15_13TeV.343400.MadGraphHerwigppEvtGen_UEEE5_CTEQ6L1_CT10ME_Xhh_m800_4b.hh4b-02-03-02_MiniNTuple.root
+group.phys-exotics.mc15_13TeV.343402.MadGraphHerwigppEvtGen_UEEE5_CTEQ6L1_CT10ME_Xhh_m1000_4b.hh4b-02-03-02_MiniNTuple.root
+group.phys-exotics.mc15_13TeV.343403.MadGraphHerwigppEvtGen_UEEE5_CTEQ6L1_CT10ME_Xhh_m1100_4b.hh4b-02-03-02_MiniNTuple.root
+group.phys-exotics.mc15_13TeV.343404.MadGraphHerwigppEvtGen_UEEE5_CTEQ6L1_CT10ME_Xhh_m1200_4b.hh4b-02-03-02_MiniNTuple.root
+group.phys-exotics.mc15_13TeV.343405.MadGraphHerwigppEvtGen_UEEE5_CTEQ6L1_CT10ME_Xhh_m1300_4b.hh4b-02-03-02_MiniNTuple.root
+group.phys-exotics.mc15_13TeV.343406.MadGraphHerwigppEvtGen_UEEE5_CTEQ6L1_CT10ME_Xhh_m1400_4b.hh4b-02-03-02_MiniNTuple.root
+group.phys-exotics.mc15_13TeV.343407.MadGraphHerwigppEvtGen_UEEE5_CTEQ6L1_CT10ME_Xhh_m1500_4b.hh4b-02-03-02_MiniNTuple.root
+group.phys-exotics.mc15_13TeV.342619.aMcAtNloHerwigppEvtGen_UEEE5_CTEQ6L1_CT10ME_hh_4b.hh4b-02-03-02_MiniNTuple.root
+

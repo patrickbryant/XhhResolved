@@ -1,0 +1,7 @@
+group.phys-exotics.mc15_13TeV.304825.Pythia8EvtGen_A14NNPDF23LO_ZHad_160_280.hh4b-02-00-00_MiniNTuple.root
+group.phys-exotics.mc15_13TeV.304628.Pythia8EvtGen_A14NNPDF23LO_ZHad_280_500.hh4b-02-00-00_MiniNTuple.root
+group.phys-exotics.mc15_13TeV.304629.Pythia8EvtGen_A14NNPDF23LO_ZHad_500_700.hh4b-02-00-00_MiniNTuple.root
+group.phys-exotics.mc15_13TeV.304630.Pythia8EvtGen_A14NNPDF23LO_ZHad_700_1000.hh4b-02-00-00_MiniNTuple.root
+group.phys-exotics.mc15_13TeV.304631.Pythia8EvtGen_A14NNPDF23LO_ZHad_1000_1400.hh4b-02-00-00_MiniNTuple.root
+group.phys-exotics.mc15_13TeV.304632.Pythia8EvtGen_A14NNPDF23LO_ZHad_1400.hh4b-02-00-00_MiniNTuple.root
+
